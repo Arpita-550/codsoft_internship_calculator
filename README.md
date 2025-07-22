@@ -10,13 +10,13 @@ Look up contacts by name.
 Update the current contact details.
 Eliminate contacts
 For persistence, data is locally stored in a JSON file.
-
+# Technologies Used
 Utilized Technologies: Python 3.13.5
 Tkinter (for graphical user interface)
 JSON (for storing data)
 
 # How to Run
-Verify that Python is installed on your computer.
+Verify that Python(3.13.5 version) is installed on your computer.
 The repository can be downloaded or cloned.
 Use the following command to launch the script: Python contact_book_codsoft.py
 The contact management GUI window will open.
